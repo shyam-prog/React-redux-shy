@@ -1,4 +1,4 @@
-## Cart Updation In Reactjs
+## State mangement using Redux
 - HomePage
 ![Alt text](demo.png)
 
